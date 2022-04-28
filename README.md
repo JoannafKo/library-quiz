@@ -1,9 +1,9 @@
-# Project Title
-1-2 sentence description of assignment. Nice to include a screenshot or .gif of the site in action.
+# For the Community: An Interactive Quiz or Tool
+This is a quiz to help both novices and Latin students learn about the Latin language
  ## About
 More in depth details about the project.
 ## Process & Documentation
-Share your design and technical process.
+I first got creating a repo over with, because I would forget how to do so later on in the project
 ## Challenges & Struggles
 What challenges and struggles did you face?
 ## References
