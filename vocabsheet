@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Comic+Neue:wght@700&family=Raleway:wght@100;300;600;700&display=swap" rel="stylesheet">
     <title>Ex Lingua Scientia</title>
 </head>
 <body>
+
+    <!-- Ex Lingua Scientia : Knowledge from Language
+    te provocomus : we challenge you -->
 
     <!-- links -->
     <h6 id="about">
@@ -20,19 +22,6 @@
     <h6 id="readme">
         Here's my <a href="https://github.com/JoannafKo/library-quiz/blob/main/README.md">READ.ME</a> ✪
     </h6>
-  
-
-    <div class="container">
-        <div id="home" class="flex-center flex-column">
-            <h1>༺●Ex Lingua Scientia●༻</h1>
-            <h3 id="homesub">Learn & Test your abilites of a dead language</h3>
-            <a class="btn" href="quiz.html">Begin!</a>
-            <a class="btn" href="highschores.html">High Scores</a>
-            <a class="btn" href="vocabsheet">Learn Vocab</a>
-        </div>
-    </div>
-
-    <script src="main.js"></script>
+    
 </body>
 </html>
-
