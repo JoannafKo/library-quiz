@@ -29,9 +29,39 @@
 }
 
 .correct{
-    background-color: green ;
+    background-color: rgb(90, 163, 90) ;
 }
 
 .incorrect{
-    background-color: red;
+    background-color: rgb(222, 91, 91);
+}
+
+/* HUD */
+
+#hud{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text{
+    text-align: center;
+}
+
+#progressBar{
+    width: 25rem;
+    height: 2rem;
+    border: 0.3rem solid rgba(105, 146, 207);
+    margin-top: 2.5rem;
+}
+
+#progressBarFull{
+    height: 1.5rem;
+    width: 0%;
+    background-color: rgba(105, 146, 207);
 }
