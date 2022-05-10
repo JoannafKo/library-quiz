@@ -15,7 +15,11 @@ I have thought about using roman numerals instead of numbers, but I passed it ov
 ## Challenges & Struggles
 First challenge I got involved in was with the folders. I initially tried to catergorize the extra HTML and CSS files into different folders, but when I tried to attatch the style sheet to them, the script wouldn't visually show up. I ultimately gave up on the folders, it made things too complicated.
 
-Another challenge I ran into was fetching API
+Another challenge I ran into was fetching API. When I tried to place the array into a JSON file. It mostly worked, except when I tried clicking on the answers of the questions, it did not go to the next questions. It got extremely annoying, as I planned on having about 400 terms and questions. So I decide to just go the hard route.
+
+I also tried adding a pattern to the site, however, when I tried to follow the video tutorial, it did not have the pattern show up, despite tagging it in the body. So I ended up dropping that too. If there is time near the end, I may try and fix it.
+
+
 ## References
 https://youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx
 
