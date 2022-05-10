@@ -42,10 +42,13 @@ let questions = [
     }
 ]
 
+// let questions = [];
+
 // constants
 
 const points = 5;
 const numberQuestions = 3;
+// const numberQuestions = 403
 
 // startGame();
 
@@ -61,6 +64,7 @@ getNewQuestion = () => {
 
     if (availableQuestions.length === 0 || questionCounter >= numberQuestions) {
         //go to the end page
+        localStorage.setItem("mostRecentScore", score);
         return window.location.assign('end.html');
     }
 
