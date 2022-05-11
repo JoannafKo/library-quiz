@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=dK27jWKtJxs
 https://quizlet.com/Jojo0821/folders/latin-vocab/sets
 
 https://fonts.google.com/specimen/Cinzel#standard-styles
+
+https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf

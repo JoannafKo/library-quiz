@@ -17,28 +17,28 @@ let availableQuestions = [];
 
 let questions = [
     {
-        question: "asdasdsadsda",
-        choice1: "<asdadsasd>",
-        choice2: '<asdadsasd>',
-        choice3: '<asdadsasd>',
-        choice4: '<asdadsasd>',
-        answer: 1
+        question: "atrium",
+        choice1: "bedroom",
+        choice2: 'kitchen',
+        choice3: 'mother',
+        choice4: 'atrium',
+        answer: 4
     },
     {
-        question: "435345435",
-        choice1: '<345345435>',
-        choice2: '<345345435>',
-        choice3: '<345345435>',
-        choice4: '<345345435>',
-        answer: 1
+        question: "canis",
+        choice1: 'street, road',
+        choice2: 'dog',
+        choice3: 'bedroom',
+        choice4: 'cook',
+        answer: 2
     },
     {
-        question: "DSHJKDSJDKSHJ",
-        choice1: '<SDHJDS>',
-        choice2: '<SDHJDS>',
-        choice3: '<SDHJDS>',
-        choice4: '<SDHJDS>',
-        answer: 1
+        question: "coquus",
+        choice1: 'kitchen>',
+        choice2: 'cook',
+        choice3: 'dog',
+        choice4: 'mother',
+        answer: 2
     }
 ]
 
@@ -47,7 +47,7 @@ let questions = [
 // constants
 
 const points = 5;
-const numberQuestions = 3;
+const numberQuestions = 4;
 // const numberQuestions = 403
 
 // startGame();
