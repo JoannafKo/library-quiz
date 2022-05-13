@@ -25,27 +25,11 @@ let questions = [
         answer: 4
     },
     {
-        question: "to",
-        choice1: 'ad',
-        choice2: 'cur',
-        choice3: 'e, ex',
-        choice4: 'ego',
-        answer: 2
-    },
-    {
         question: "bibit",
         choice1: 'cooks',
         choice2: 'out of, from',
         choice3: 'drinks',
         choice4: 'shouts',
-        answer: 3
-    },
-    {
-        question: "drinks",
-        choice1: 'ecce',
-        choice2: 'coquit',
-        choice3: 'bibit',
-        choice4: 'circumspectat',
         answer: 3
     },
     {
@@ -57,28 +41,12 @@ let questions = [
         answer: 2
     },
     {
-        question: "looks around",
-        choice1: 'ecce',
-        choice2: 'exspectat',
-        choice3: 'circumspectat',
-        choice4: 'respondet, respondit',
-        answer: 3
-    },
-    {
         question: "clamat",
         choice1: 'shouts',
         choice2: 'wax tablet',
         choice3: 'looks around',
         choice4: 'cooks',
         answer: 1
-    },
-    {
-        question: "shouts",
-        choice1: 'circumspectat',
-        choice2: 'clamat',
-        choice3: 'coquit',
-        choice4: 'exspectat',
-        answer: 2
     },
     {
         question: "ecce",
@@ -89,28 +57,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "look",
-        choice1: 'exit',
-        choice2: 'exspectat',
-        choice3: 'ecce',
-        choice4: 'e, ex',
-        answer: 3
-    },
-    {
         question: "exit",
         choice1: 'goes out',
         choice2: 'look',
         choice3: 'shouts',
         choice4: 'door',
         answer: 1
-    },
-    {
-        question: "goes out",
-        choice1: 'non',
-        choice2: 'ecce',
-        choice3: 'circumspectat',
-        choice4: 'exit',
-        answer: 4
     },
     {
         question: "exspectat",
@@ -121,28 +73,12 @@ let questions = [
         answer: 2
     },
     {
-        question: "waits for",
-        choice1: 'portat',
-        choice2: 'exit',
-        choice3: 'exspectat',
-        choice4: 'ecce',
-        answer: 3
-    },
-    {
         question: "forum",
         choice1: 'forum',
         choice2: 'door',
         choice3: 'hello',
         choice4: 'angry',
         answer: 1
-    },
-    {
-        question: "forum",
-        choice1: 'magnus',
-        choice2: 'salve',
-        choice3: 'taberna',
-        choice4: 'forum',
-        answer: 4
     },
     {
         question: "ianua",
@@ -153,28 +89,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "door",
-        choice1: 'respondet, respondit',
-        choice2: 'portat',
-        choice3: 'taberna',
-        choice4: 'ianua',
-        answer: 4
-    },
-    {
         question: "iratus",
         choice1: 'angry',
         choice2: 'rises',
         choice3: 'lion',
         choice4: 'replies',
         answer: 1
-    },
-    {
-        question: "angry",
-        choice1: 'ridet, risit',
-        choice2: 'magnus',
-        choice3: 'iratus',
-        choice4: 'inquit',
-        answer: 3
     },
     {
         question: "magnus",
@@ -185,14 +105,6 @@ let questions = [
         answer: 3
     },
     {
-        question: "big",
-        choice1: 'mendax, mendacem',
-        choice2: 'iudex, iudicem',
-        choice3: 'quis',
-        choice4: 'magnus',
-        answer: 4
-    },
-    {
         question: "navis",
         choice1: 'ship',
         choice2: 'sees',
@@ -201,555 +113,451 @@ let questions = [
         answer: 1
     },
     {
-        question: "ship",
-        choice1: 'navis',
-        choice2: 'videt, vidit',
-        choice3: 'salve',
-        choice4: 'surgit, surrexit',
-        answer: 1
-    },
-    {
         question: "non",
         choice1: 'not',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "not",
-        choice1: 'non',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        choice2: 'rises',
+        choice3: 'ship',
+        choice4: 'who',
         answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "portat",
+        choice1: 'cooks',
+        choice2: 'carries',
+        choice3: 'money',
+        choice4: 'does business',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "respondet, respondit",
+        choice1: 'gives back',
+        choice2: 'replies',
+        choice3: 'rises',
+        choice4: 'smiles',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "replies",
+        choice1: 'ridet, risit',
+        choice2: 'surgit, surrexit',
+        choice3: 'respondet, respondit',
+        choice4: 'reddit',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "smiles",
+        choice1: 'signum',
+        choice2: 'ridet, risit',
+        choice3: 'quis',
+        choice4: 'respondet, respondit',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
-    },
-    {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "salve",
+        choice1: 'enough',
+        choice2: 'sells',
+        choice3: 'hello',
+        choice4: 'sign, seal, signal',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "surgit, surrexit",
+        choice1: 'rises',
+        choice2: 'angry',
+        choice3: 'replies',
+        choice4: 'smiles',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "taberna",
+        choice1: 'sees',
+        choice2: 'ship',
+        choice3: 'forum',
+        choice4: 'shop',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "videt, vidit",
+        choice1: 'sign, seal, signal',
+        choice2: 'calls',
+        choice3: 'sells',
+        choice4: 'sees',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "agit, egit",
+        choice1: 'does business',
+        choice2: 'alas, oh dear',
+        choice3: 'does',
+        choice4: 'out of, from',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "negotium agit",
+        choice1: 'does',
+        choice2: 'why',
+        choice3: 'does business',
+        choice4: 'looks around',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "anulus",
+        choice1: 'ring',
+        choice2: 'to',
+        choice3: 'angry',
+        choice4: 'rises',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "cera",
+        choice1: 'why',
+        choice2: 'cooks',
+        choice3: 'look',
+        choice4: 'wax tablet',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "coquit",
+        choice1: 'why',
+        choice2: 'cooks',
+        choice3: 'wax tablet',
+        choice4: 'shouts',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "cur",
+        choice1: 'who',
+        choice2: 'why',
+        choice3: 'but',
+        choice4: 'looks for',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "why",
+        choice1: 'eheu',
+        choice2: 'cur',
+        choice3: 'inquit',
+        choice4: 'quis',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "e, ex",
+        choice1: 'why',
+        choice2: 'out of, from',
+        choice3: 'I',
+        choice4: 'has',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "out of, from",
+        choice1: 'e, ex',
+        choice2: 'cur',
+        choice3: 'ego',
+        choice4: 'eheu',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "ego",
+        choice1: 'but',
+        choice2: 'I',
+        choice3: 'who',
+        choice4: 'you',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "I",
+        choice1: 'eheu',
+        choice2: 'inquit',
+        choice3: 'ego',
+        choice4: 'quis',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "eheu",
+        choice1: 'out of, from',
+        choice2: 'who',
+        choice3: 'alas, oh dear',
+        choice4: 'you',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "alas, oh dear",
+        choice1: 'e, ex',
+        choice2: 'habet, habuit',
+        choice3: 'quis',
+        choice4: 'eheu',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "habet, habuit",
+        choice1: 'replies',
+        choice2: 'looks for',
+        choice3: 'has',
+        choice4: 'hello',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "has",
+        choice1: 'respondet, respondit',
+        choice2: 'habet, habuit',
+        choice3: 'quaerit, quaesivit',
+        choice4: 'salve',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "inquit",
+        choice1: 'has',
+        choice2: 'says',
+        choice3: 'looks for',
+        choice4: 'who',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "says",
+        choice1: 'quaerit, quaesivit',
+        choice2: 'habet, habuit',
+        choice3: 'quis',
+        choice4: 'inquit',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "iudex, iudicem",
+        choice1: 'judge',
+        choice2: 'says',
+        choice3: 'looks for',
+        choice4: 'gives back',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "judge",
+        choice1: 'inquit',
+        choice2: 'quaerit, quaesivit',
+        choice3: 'reddit',
+        choice4: 'iudex, iudicem',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "mendax, mendacem",
+        choice1: 'judge',
+        choice2: 'says',
+        choice3: 'liar',
+        choice4: 'who',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "liar",
+        choice1: 'mendax, mendacem',
+        choice2: 'iudex, iudicem',
+        choice3: 'inquit',
+        choice4: 'quis',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "pecunia",
+        choice1: 'money',
+        choice2: 'poet',
+        choice3: 'carries',
+        choice4: 'terrified',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "money",
+        choice1: 'perterritus',
+        choice2: 'poet',
+        choice3: 'pecunia',
+        choice4: 'portat',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "perterritus",
+        choice1: 'terrified',
+        choice2: 'money',
+        choice3: 'looks for',
+        choice4: 'poet',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "terrified",
+        choice1: 'poeta',
+        choice2: 'perterritus',
+        choice3: 'pecunia',
+        choice4: 'quaerit, quaesivit',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "poeta",
+        choice1: 'poet',
+        choice2: 'who',
+        choice3: 'looks for',
+        choice4: 'gives back',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "poet",
+        choice1: 'poeta',
+        choice2: 'quaerit, quaesivit',
+        choice3: 'reddit',
+        choice4: 'quis',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "quaerit, quaesivit",
+        choice1: 'who',
+        choice2: 'sees',
+        choice3: 'replies',
+        choice4: 'looks for',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "looks for",
+        choice1: 'quaerit, quaesivit',
+        choice2: 'quis',
+        choice3: 'surgit, surrexit',
+        choice4: 'ridet, risit',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "quis",
+        choice1: 'who',
+        choice2: 'sed',
+        choice3: 'reddit',
+        choice4: 'quaerit, quaesivit',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "who",
+        choice1: 'quis',
+        choice2: 'gives back',
+        choice3: 'looks for',
+        choice4: 'who',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "reddit",
+        choice1: 'gives back',
+        choice2: 'but',
+        choice3: 'enough',
+        choice4: 'tu',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "gives back",
+        choice1: 'satis',
+        choice2: 'you',
+        choice3: 'sed',
+        choice4: 'reddit',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "satis",
+        choice1: 'enough',
+        choice2: 'sign, seal, signal',
+        choice3: 'but',
+        choice4: 'hello',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "enough",
+        choice1: 'sed',
+        choice2: 'signum',
+        choice3: 'satis',
+        choice4: 'salve',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "sed",
+        choice1: 'but',
+        choice2: 'has',
+        choice3: 'I',
+        choice4: 'says',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "but",
+        choice1: 'satis',
+        choice2: 'sed',
+        choice3: 'quis',
+        choice4: 'ego',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "signum",
+        choice1: 'enough',
+        choice2: 'you',
+        choice3: 'sells',
+        choice4: 'sign, seal, signal',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "sign, seal, signal",
+        choice1: 'sed',
+        choice2: 'signum',
+        choice3: 'quaerit, quaesivit',
+        choice4: 'mendax, mendacem',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "tu",
+        choice1: 'you',
+        choice2: 'who',
+        choice3: 'not',
+        choice4: 'but',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "you",
+        choice1: 'non',
+        choice2: 'quis',
+        choice3: 'sed',
+        choice4: 'tu',
+        answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "vendit",
+        choice1: 'sells',
+        choice2: 'surgit, surrexit',
+        choice3: 'salve',
+        choice4: 'sees',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "sells",
+        choice1: 'hello',
+        choice2: 'rises',
+        choice3: 'vendit',
+        choice4: 'videt, vidit',
+        answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "vocat",
+        choice1: 'sells',
+        choice2: 'calls',
+        choice3: 'smiles',
+        choice4: 'sees',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
-        answer: 2
+        question: "calls",
+        choice1: 'vocat',
+        choice2: 'videt, vidit',
+        choice3: 'vendit',
+        choice4: 'ridet, risit',
+        answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "leo",
+        choice1: 'not',
+        choice2: 'lion',
+        choice3: 'says',
+        choice4: 'liar',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "lion",
+        choice1: 'mendax, mendacem',
+        choice2: 'leo',
+        choice3: 'non',
+        choice4: 'inquit',
         answer: 2
     },
 ]
@@ -759,7 +567,7 @@ let questions = [
 // constants
 
 const points = 5;
-const numberQuestions = 30;
+const numberQuestions = 40;
 // const numberQuestions = 403
 
 // startGame();
