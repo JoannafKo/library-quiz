@@ -165,7 +165,7 @@ input::placeholder{
 
 .containerT{
     width: 100vw;
-    height: 300vh;
+    height: 440vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -188,7 +188,7 @@ table, th, td {
 }
 
 th, td{
-    padding: 0.5rem;
+    padding: 0.6rem;
 }
 
 caption{

@@ -520,7 +520,7 @@ let questions = [
 // constants
 
 const points = 5;
-const numberQuestions = 30;
+const numberQuestions = 20;
 // const numberQuestions = 403
 
 // startGame();
