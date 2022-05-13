@@ -20,6 +20,9 @@ Since I'm using a video tutorial to create this project, I decided on adding my 
 
 I have thought about using roman numerals instead of numbers, but I passed it over due to time constraints, and that it would be difficult for even the begginer and student to understand the numeric values. I decided on using the roman numerals in the difficulty modes instead, as a ranking of some sorts.
 
+I also tried adding a confetti animation to the end screen, but despite following the video tutorial, it, like the background pattern, didn't show up too
+
+<img src="assets/wip8.png" width="500">
 
 ## Challenges & Struggles
 First challenge I got involved in was with the folders. I initially tried to catergorize the extra HTML and CSS files into different folders, but when I tried to attatch the style sheet to them, the script wouldn't visually show up. I ultimately gave up on the folders, it made things too complicated.
