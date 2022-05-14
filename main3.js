@@ -125,8 +125,8 @@ let questions = [
         question: "iuvenis",
         choice1: 'woman',
         choice2: 'girl',
-        choice3: 'girl',
-        choice4: 'old man',
+        choice3: 'old man',
+        choice4: 'young man',
         answer: 4
     },
     {
@@ -363,91 +363,91 @@ let questions = [
         answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "per",
+        choice1: 'through',
+        choice2: 'heads for, attacks, seeks',
+        choice3: 'applauds',
+        choice4: 'small',
         answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "postquam",
+        choice1: 'through',
+        choice2: 'after',
+        choice3: 'hits',
+        choice4: 'freedman',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "pulsat",
+        choice1: 'because',
+        choice2: 'after',
+        choice3: 'hits',
+        choice4: 'through',
         answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "quod",
+        choice1: 'looks at',
+        choice2: 'old man',
+        choice3: 'where',
+        choice4: 'because',
         answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "res",
+        choice1: 'thing',
+        choice2: 'your',
+        choice3: 'then',
+        choice4: 'suddenly',
         answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "scribit",
+        choice1: 'suddenly',
+        choice2: 'writes',
+        choice3: 'looks at',
+        choice4: 'your',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "subito",
+        choice1: 'writes',
+        choice2: 'overpowers',
+        choice3: 'suddenly',
+        choice4: 'stands',
         answer: 3
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "superat",
+        choice1: 'suddenly',
+        choice2: 'writes',
+        choice3: 'looks at',
+        choice4: 'overpowers',
         answer: 4
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "tum",
+        choice1: 'then',
+        choice2: 'crowd',
+        choice3: 'your',
+        choice4: 'where',
         answer: 1
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "tuus",
+        choice1: 'suddenly',
+        choice2: 'your',
+        choice3: 'then',
+        choice4: 'after',
         answer: 2
     },
     {
-        question: "",
-        choice1: '',
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        question: "vituperat",
+        choice1: 'your',
+        choice2: 'comes',
+        choice3: 'curses',
+        choice4: 'crowd',
         answer: 3
     },
 ]
@@ -457,7 +457,7 @@ let questions = [
 // constants
 
 const points = 5;
-const numberQuestions = 30;
+const numberQuestions = 40;
 // const numberQuestions = 403
 
 // startGame();
