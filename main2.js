@@ -137,14 +137,6 @@ let questions = [
         answer: 2
     },
     {
-        question: "replies",
-        choice1: 'ridet, risit',
-        choice2: 'surgit, surrexit',
-        choice3: 'respondet, respondit',
-        choice4: 'reddit',
-        answer: 3
-    },
-    {
         question: "smiles",
         choice1: 'signum',
         choice2: 'ridet, risit',
@@ -233,28 +225,12 @@ let questions = [
         answer: 2
     },
     {
-        question: "why",
-        choice1: 'eheu',
-        choice2: 'cur',
-        choice3: 'inquit',
-        choice4: 'quis',
-        answer: 2
-    },
-    {
         question: "e, ex",
         choice1: 'why',
         choice2: 'out of, from',
         choice3: 'I',
         choice4: 'has',
         answer: 2
-    },
-    {
-        question: "out of, from",
-        choice1: 'e, ex',
-        choice2: 'cur',
-        choice3: 'ego',
-        choice4: 'eheu',
-        answer: 1
     },
     {
         question: "ego",
@@ -265,28 +241,12 @@ let questions = [
         answer: 2
     },
     {
-        question: "I",
-        choice1: 'eheu',
-        choice2: 'inquit',
-        choice3: 'ego',
-        choice4: 'quis',
-        answer: 3
-    },
-    {
         question: "eheu",
         choice1: 'out of, from',
         choice2: 'who',
         choice3: 'alas, oh dear',
         choice4: 'you',
         answer: 3
-    },
-    {
-        question: "alas, oh dear",
-        choice1: 'e, ex',
-        choice2: 'habet, habuit',
-        choice3: 'quis',
-        choice4: 'eheu',
-        answer: 4
     },
     {
         question: "habet, habuit",
@@ -297,28 +257,12 @@ let questions = [
         answer: 3
     },
     {
-        question: "has",
-        choice1: 'respondet, respondit',
-        choice2: 'habet, habuit',
-        choice3: 'quaerit, quaesivit',
-        choice4: 'salve',
-        answer: 2
-    },
-    {
         question: "inquit",
         choice1: 'has',
         choice2: 'says',
         choice3: 'looks for',
         choice4: 'who',
         answer: 2
-    },
-    {
-        question: "says",
-        choice1: 'quaerit, quaesivit',
-        choice2: 'habet, habuit',
-        choice3: 'quis',
-        choice4: 'inquit',
-        answer: 4
     },
     {
         question: "iudex, iudicem",
@@ -329,28 +273,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "judge",
-        choice1: 'inquit',
-        choice2: 'quaerit, quaesivit',
-        choice3: 'reddit',
-        choice4: 'iudex, iudicem',
-        answer: 4
-    },
-    {
         question: "mendax, mendacem",
         choice1: 'judge',
         choice2: 'says',
         choice3: 'liar',
         choice4: 'who',
         answer: 3
-    },
-    {
-        question: "liar",
-        choice1: 'mendax, mendacem',
-        choice2: 'iudex, iudicem',
-        choice3: 'inquit',
-        choice4: 'quis',
-        answer: 1
     },
     {
         question: "pecunia",
@@ -361,14 +289,6 @@ let questions = [
         answer: 1
     },
     {
-        question: "money",
-        choice1: 'perterritus',
-        choice2: 'poet',
-        choice3: 'pecunia',
-        choice4: 'portat',
-        answer: 3
-    },
-    {
         question: "perterritus",
         choice1: 'terrified',
         choice2: 'money',
@@ -377,27 +297,11 @@ let questions = [
         answer: 1
     },
     {
-        question: "terrified",
-        choice1: 'poeta',
-        choice2: 'perterritus',
-        choice3: 'pecunia',
-        choice4: 'quaerit, quaesivit',
-        answer: 2
-    },
-    {
         question: "poeta",
         choice1: 'poet',
         choice2: 'who',
         choice3: 'looks for',
         choice4: 'gives back',
-        answer: 1
-    },
-    {
-        question: "poet",
-        choice1: 'poeta',
-        choice2: 'quaerit, quaesivit',
-        choice3: 'reddit',
-        choice4: 'quis',
         answer: 1
     },
     {
@@ -409,27 +313,11 @@ let questions = [
         answer: 4
     },
     {
-        question: "looks for",
-        choice1: 'quaerit, quaesivit',
-        choice2: 'quis',
-        choice3: 'surgit, surrexit',
-        choice4: 'ridet, risit',
-        answer: 1
-    },
-    {
         question: "quis",
         choice1: 'who',
         choice2: 'sed',
         choice3: 'reddit',
         choice4: 'quaerit, quaesivit',
-        answer: 1
-    },
-    {
-        question: "who",
-        choice1: 'quis',
-        choice2: 'gives back',
-        choice3: 'looks for',
-        choice4: 'who',
         answer: 1
     },
     {
@@ -441,28 +329,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "gives back",
-        choice1: 'satis',
-        choice2: 'you',
-        choice3: 'sed',
-        choice4: 'reddit',
-        answer: 4
-    },
-    {
         question: "satis",
         choice1: 'enough',
         choice2: 'sign, seal, signal',
         choice3: 'but',
         choice4: 'hello',
         answer: 1
-    },
-    {
-        question: "enough",
-        choice1: 'sed',
-        choice2: 'signum',
-        choice3: 'satis',
-        choice4: 'salve',
-        answer: 3
     },
     {
         question: "sed",
@@ -473,28 +345,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "but",
-        choice1: 'satis',
-        choice2: 'sed',
-        choice3: 'quis',
-        choice4: 'ego',
-        answer: 2
-    },
-    {
         question: "signum",
         choice1: 'enough',
         choice2: 'you',
         choice3: 'sells',
         choice4: 'sign, seal, signal',
         answer: 4
-    },
-    {
-        question: "sign, seal, signal",
-        choice1: 'sed',
-        choice2: 'signum',
-        choice3: 'quaerit, quaesivit',
-        choice4: 'mendax, mendacem',
-        answer: 2
     },
     {
         question: "tu",
@@ -505,28 +361,12 @@ let questions = [
         answer: 1
     },
     {
-        question: "you",
-        choice1: 'non',
-        choice2: 'quis',
-        choice3: 'sed',
-        choice4: 'tu',
-        answer: 4
-    },
-    {
         question: "vendit",
         choice1: 'sells',
         choice2: 'surgit, surrexit',
         choice3: 'salve',
         choice4: 'sees',
         answer: 1
-    },
-    {
-        question: "sells",
-        choice1: 'hello',
-        choice2: 'rises',
-        choice3: 'vendit',
-        choice4: 'videt, vidit',
-        answer: 3
     },
     {
         question: "vocat",
@@ -537,29 +377,13 @@ let questions = [
         answer: 2
     },
     {
-        question: "calls",
-        choice1: 'vocat',
-        choice2: 'videt, vidit',
-        choice3: 'vendit',
-        choice4: 'ridet, risit',
-        answer: 1
-    },
-    {
         question: "leo",
         choice1: 'not',
         choice2: 'lion',
         choice3: 'says',
         choice4: 'liar',
         answer: 2
-    },
-    {
-        question: "lion",
-        choice1: 'mendax, mendacem',
-        choice2: 'leo',
-        choice3: 'non',
-        choice4: 'inquit',
-        answer: 2
-    },
+    }
 ]
 
 // let questions = [];
@@ -567,7 +391,7 @@ let questions = [
 // constants
 
 const points = 5;
-const numberQuestions = 40;
+const numberQuestions = 30;
 // const numberQuestions = 403
 
 // startGame();

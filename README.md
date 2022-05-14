@@ -1,7 +1,7 @@
 # For the Community: An Interactive Quiz or Tool
 This is a quiz to help both novices and Latin students learn about the Latin language
  ## About
-This project is a learning tool targeted at students in Latin class, or just novices who wish to learn Latin. The website is a quiz full of Latin vocabulary (contained in a table), and a dictionary that explains the etymologies of the latin words, and how they are roots for our modern day languages.
+This project is a learning tool targeted at students in Latin class, or just novices who wish to learn Latin. The website is a quiz full of Latin vocabulary (contained in a table), and a dictionary that explains the etymologies of the latin words, and how they are roots for our modern day languages. This project incorporates localStorage via the scores by saving the most recent player score, and displaying it at the end screen.
 
 ## Process & Documentation
 I first got creating a repo over with, because I would forget how to do so later on in the project. Then I looked into a video series about making a quiz or game for HTML, CSS, and Javascript, and I followed it while making my own customization
@@ -29,7 +29,7 @@ First challenge I got involved in was with the folders. I initially tried to cat
 
 <img src="assets/wip3.png" width="500">
 
-Another challenge I ran into was fetching API. When I tried to place the array into a JSON file. It mostly worked, except when I tried clicking on the answers of the questions, it did not go to the next questions. It got extremely annoying, as I planned on having about 400 terms and questions. So I decide to just go the hard route.
+Another challenge I ran into was fetching API. When I tried to place the array into a JSON file. It mostly worked, except when I tried clicking on the answers of the questions, it did not go to the next questions. It got extremely annoying, as I planned on having about 400 terms and questions. So I decide to just go the hard route
 
 <img src="assets/wip4.png" width="500">
 
