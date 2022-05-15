@@ -54,3 +54,7 @@ I also tried adding a pattern to the site, however, when I tried to follow the v
 [Cinzel](https://fonts.google.com/specimen/Cinzel#standard-styles)
 
 [List of Greek and Latin roots in English](https://www.oakton.edu/user/3/gherrera/Greek%20and%20Latin%20Roots%20in%20English/greek_and_latin_roots.pdf)
+
+[List of Latin phrases (full)](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(full))
+
+[List of Latin words with English derivatives](https://en.wikipedia.org/wiki/List_of_Latin_words_with_English_derivatives)

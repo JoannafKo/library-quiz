@@ -236,9 +236,10 @@ input::placeholder{
     padding: 2rem;
 }
 
+
 .containerW{
     width: 100vw;
-    height: 795vh;
+    height: 815vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -247,9 +248,20 @@ input::placeholder{
     padding: 2rem;
 }
 
-.containerW{
+.containerX{
     width: 100vw;
-    height: 795vh;
+    height: 705vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.containerYZ{
+    width: 100vw;
+    height: 667vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -268,6 +280,8 @@ input::placeholder{
     margin: 0 auto;
     padding: 2rem;
 }
+
+
 
 table{
     font-size: 1.7rem;
