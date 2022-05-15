@@ -316,8 +316,8 @@ let questions = [
         question: "quis",
         choice1: 'who',
         choice2: 'sed',
-        choice3: 'reddit',
-        choice4: 'quaerit, quaesivit',
+        choice3: 'replies',
+        choice4: 'sign, seal',
         answer: 1
     },
     {
@@ -325,7 +325,7 @@ let questions = [
         choice1: 'gives back',
         choice2: 'but',
         choice3: 'enough',
-        choice4: 'tu',
+        choice4: 'replies',
         answer: 1
     },
     {
