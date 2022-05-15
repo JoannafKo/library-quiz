@@ -613,16 +613,16 @@ let questions = [
     },
     {
         question: "paucī, paucae, pauca",
-        choice1: '',
-        choice2: '',
+        choice1: 'ready',
+        choice2: 'to punish',
         choice3: 'few',
-        choice4: '',
+        choice4: 'to place',
         answer: 3
     },
     {
         question: "few",
         choice1: 'ponō, ponere, posuī',
-        choice2: '',
+        choice2: 'tollō, tollere, sustulī',
         choice3: 'simulac, simulatque',
         choice4: 'paucī, paucae, pauca',
         answer: 4
@@ -630,9 +630,9 @@ let questions = [
     {
         question: "quondam",
         choice1: "one day",
-        choice2: '',
-        choice3: '',
-        choice4: '',
+        choice2: 'as soon as',
+        choice3: 'to place',
+        choice4: 'to raise',
         answer: 1
     },
     {
